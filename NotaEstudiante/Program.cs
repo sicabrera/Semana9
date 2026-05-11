@@ -37,7 +37,7 @@ for (int i = 0; i < notas.Length; i++)
 
 promedio = suma / notas.Length;
 
-
+Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("\nNOTAS APROBADAS");
 
 for (int i = 0; i < notas.Length; i++)
@@ -51,3 +51,4 @@ for (int i = 0; i < notas.Length; i++)
 Console.WriteLine($"\nCantidad de estudiantes reprobados: {reprobados}");
 
 Console.WriteLine($"Promedio general del grupo: {promedio:F2}");
+Console.ResetColor();
