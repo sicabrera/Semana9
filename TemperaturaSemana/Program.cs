@@ -4,8 +4,16 @@ double promedio;
 
 for (int i=0; i < temperaturas.Length; i++)
 {
+    try{
     Console.WriteLine($"Digite la temperatura del dia {i+1}:");
     temperaturas[i] = double.Parse(Console.ReadLine()!);
+    }
+
+    catch(FormatException)
+    {
+        Console.WriteLine("Formato no valido. Ingrese un número valido.");
+        i--;
+    }
 
     suma += temperaturas[i];
 }

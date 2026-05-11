@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemperaturaSemana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a102f2d411901a7f74af3d94cc56c08aa9c4edf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92db52481421c60ca9bb0580f5148ccf455402b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemperaturaSemana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemperaturaSemana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
