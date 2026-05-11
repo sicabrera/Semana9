@@ -40,7 +40,7 @@ for (int i = 0; i < ventas.Length; i++)
 
 promedio = (double)totalLibros / ventas.Length;
 
-
+Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("\n----- RESULTADOS -----");
 
 Console.WriteLine($"Total de libros vendidos: {totalLibros}");
@@ -48,3 +48,4 @@ Console.WriteLine($"Total de libros vendidos: {totalLibros}");
 Console.WriteLine($"La categoría con más ventas es la #{categoriaMayor + 1} con {ventas[categoriaMayor]} ventas.");
 
 Console.WriteLine($"Promedio de ventas: {promedio:F2}");
+Console.ResetColor();
