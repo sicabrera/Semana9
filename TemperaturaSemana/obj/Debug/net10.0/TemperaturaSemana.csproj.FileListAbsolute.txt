@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.exe
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.deps.json
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.runtimeconfig.json
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.dll
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.pdb
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.sourcelink.json
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.dll
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\refint\TemperaturaSemana.dll
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.pdb
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Semana9\TemperaturaSemana\obj\Debug\net10.0\ref\TemperaturaSemana.dll
